@@ -180,6 +180,11 @@ In AchternEngine each 3D model must have a `Material` associated with it! For no
 is that you can set the color of any `Material` by calling `Material#setColor()`. If you want to learn
 more about materials in AchternEngine read the intermediate article on [materials](../intermediate/material).
 
+Maybe you have noticed this weired checkerboard texture on the cube. This is because it is missing a default 
+texture and AchternEngine just replaces it with this global missing texture indicator.
+
+Learn more about texturing [here](texturing)
+
 After we have created our material we can create a `Figure`, a figure is a container object for Meshes and
 materials and combines them. Each figure should be named and MUST have a mesh and material!
 
