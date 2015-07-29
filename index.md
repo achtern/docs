@@ -4,7 +4,7 @@ This documentation will walk you through setting up and running AchternEngine wi
 
 If you have no idea what AchternEngine is yet, have a look on the [projects homepage](http://achtern.org)!
 
-This documentation is generated from markdown sources which can be found [github.com/achtern/docs](https://github.com/achtern/docs),
+This documentation is generated from markdown sources which can be found at [github.com/achtern/docs](https://github.com/achtern/docs),
 feel free to fix mistakes and/or improve the documentation by sending pull requests.
 
 _But lets get started!_
