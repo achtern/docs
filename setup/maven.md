@@ -35,6 +35,12 @@ In your build process add this plugin to copy the native bindings into the targe
 </plugin>
 ```
 
+And add the following JVM paramter:
+
+```shell
+-Djava.library.path=target/natives
+```
+
 In addition to that AchternEngine uses [slf4j](http://www.slf4j.org/) as logging framework, you need to provide the implementation for that.
 You can use whatever you want and fits your project, but I recommend to use [logback](http://logback.qos.ch/)!
 
@@ -64,4 +70,4 @@ And add the following basic configuration file `logback.xml` into your resource 
 </configuration>
 ```
 
-Now you are all set and can [get started](../get_started)
+Now you are all set and can [get started](../getting_started)
