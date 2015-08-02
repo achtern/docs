@@ -20,7 +20,7 @@ or you can just [download the compiled jar](setup/download), using maven is reco
 
 After setting up your project and IDE you get started creating your very own game or basic 3D scene.
 
-Here you can find the [getting started guide](getting_started/intro), this will walk you through the basics
+Here you can find the [getting started guide](getting_started/01 Intro), this will walk you through the basics
 of the engine and how to get your project up and running. If you want to dive in deeper into the matter you
 may like the [intermediate articles](intermediate/) or the full fledged [documentation](documentation/).
 
